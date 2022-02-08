@@ -41,3 +41,6 @@ Variabilele sunt litere mari si mici, expresiile din instructiunea set admit doa
  
 ## Echipa
 Laza Gabriel si Aliciuc Alexandru, grupa B2, UAIC
+
+## Poze
+![alt text](https://github.com/gabilaza/NS-Diagram/blob/main/image.png)
